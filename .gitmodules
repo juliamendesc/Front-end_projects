@@ -4,3 +4,6 @@
 [submodule "3-column-preview-card-component"]
 	path = 3-column-preview-card-component
 	url = git@github.com:juliamendesc/3-column-preview-card-component.git
+[submodule "qrcode-component"]
+	path = qrcode-component
+	url = git@github.com:juliamendesc/qrcode-component.git
